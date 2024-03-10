@@ -19,3 +19,12 @@ To successfully complete this assessment, you'll need to follow these general st
 - *Visualize the output*: Plot the cumulative fund performance over time.
 
 These requirements cover the base requirements for completing the exercise but they are by no means complete. Please investigate the data carefully and ask questions as we progress through the excercise. State clearly any assumptions that you make.
+
+## Submission Guidelines
+
+When you have completed the assessment, ensure your submission includes the following:
+
+- Your implementation code.
+- A README file documenting any additional information or instructions for running your code.
+
+Please submit your code by creating a fork of this repository and sending the link to the fork or by creating zip folder of the submission. Email your work upon completion to `yannis@behaviourlab.com` and `jobs@behaviourlab.com`.
